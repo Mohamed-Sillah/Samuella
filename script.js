@@ -9,7 +9,7 @@ const countdown = () => {
   const header1 = document.getElementById("header1");
   const header2 = document.getElementById("header2");
   const ccountdown = document.getElementById("ccountdown");
-  const birthday = new Date('2025-10-21T19:59:00.100Z'); 
+  const birthday = new Date('2025-10-21T20:05:00.100Z'); 
   const h31 = document.getElementById("h31");
   const h32 = document.getElementById("h32");
   const now = new Date();
